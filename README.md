@@ -27,10 +27,10 @@
 
 * Display MTR Next Train information all at once.
 
-<img width="304" height="80" alt="image" src="https://github.com/user-attachments/assets/54f9b407-1b30-40ce-a89a-5eb9df1e316f" />
-
 ## Minecraft Plugins
 
 ### MythicDungeons ([Minecraft](https://www.spigotmc.org/resources/%E3%80%90mythicdungeons%E3%80%91-the-world%E2%80%99s-first-single-world-multi-instance-dungeon-system-1-20-1-21.99297/))
+
+<img width="304" height="80" alt="image" src="https://github.com/user-attachments/assets/54f9b407-1b30-40ce-a89a-5eb9df1e316f" />
 
 * Minecraft plugin enabling multi-instance dungeons within a single world.
