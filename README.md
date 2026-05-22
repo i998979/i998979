@@ -17,7 +17,7 @@
 
 ### PA Inference (Android)
 
-* Mobile-end tri-lingual (Cantonese, Mandarin, English) audio inference.
+* Mobile-end trilingual (Cantonese, Mandarin, English) audio inference.
 
 ### PAS (Public Address System) (Android)
 
